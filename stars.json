@@ -1,45 +1,45 @@
 [
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 4991,
-    "open_issues_count": 59,
-    "forks_count": 295
+    "stargazers_count": 5884,
+    "open_issues_count": 57,
+    "forks_count": 324
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5117,
-    "open_issues_count": 24,
+    "stargazers_count": 5129,
+    "open_issues_count": 23,
     "forks_count": 224
   },
   {
     "full_name": "primefaces/primereact",
-    "stargazers_count": 3027,
-    "open_issues_count": 209,
-    "forks_count": 617
+    "stargazers_count": 3033,
+    "open_issues_count": 210,
+    "forks_count": 619
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 895,
+    "stargazers_count": 901,
     "open_issues_count": 66,
-    "forks_count": 828
+    "forks_count": 835
   },
   {
     "full_name": "withfig/autocomplete",
-    "stargazers_count": 19651,
-    "open_issues_count": 161,
-    "forks_count": 4613
+    "stargazers_count": 19682,
+    "open_issues_count": 163,
+    "forks_count": 4619
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 4691,
-    "open_issues_count": 35,
-    "forks_count": 67
+    "stargazers_count": 4723,
+    "open_issues_count": 34,
+    "forks_count": 68
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 253,
-    "open_issues_count": 60,
-    "forks_count": 46
+    "stargazers_count": 258,
+    "open_issues_count": 59,
+    "forks_count": 47
   },
   {
     "full_name": "giuseppeg/refined-twitter-lite",
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "openreplay/openreplay",
-    "stargazers_count": 5396,
-    "open_issues_count": 46,
-    "forks_count": 224
+    "stargazers_count": 5466,
+    "open_issues_count": 47,
+    "forks_count": 229
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 30813,
-    "open_issues_count": 360,
-    "forks_count": 672
+    "stargazers_count": 31125,
+    "open_issues_count": 359,
+    "forks_count": 679
   },
   {
     "full_name": "gsoft-inc/sg-orbit",
     "stargazers_count": 92,
-    "open_issues_count": 61,
+    "open_issues_count": 62,
     "forks_count": 33
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 54840,
+    "stargazers_count": 54864,
     "open_issues_count": 6,
-    "forks_count": 10574
+    "forks_count": 10580
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1860,
-    "open_issues_count": 63,
-    "forks_count": 308
+    "stargazers_count": 1868,
+    "open_issues_count": 61,
+    "forks_count": 312
   },
   {
     "full_name": "EddieHubCommunity/api",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "klaufel/awesome-design-systems",
-    "stargazers_count": 459,
+    "stargazers_count": 460,
     "open_issues_count": 0,
     "forks_count": 37
   },
   {
     "full_name": "noob-hackers/infect",
-    "stargazers_count": 1234,
+    "stargazers_count": 1240,
     "open_issues_count": 2,
-    "forks_count": 205
+    "forks_count": 206
   },
   {
     "full_name": "WebDevSimplified/js-css-carousel",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 204572,
-    "open_issues_count": 15,
-    "forks_count": 23393
+    "stargazers_count": 205016,
+    "open_issues_count": 18,
+    "forks_count": 23454
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 147262,
-    "open_issues_count": 274,
-    "forks_count": 24439
+    "stargazers_count": 147383,
+    "open_issues_count": 275,
+    "forks_count": 24476
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 125347,
+    "stargazers_count": 125415,
     "open_issues_count": 143,
-    "forks_count": 24025
+    "forks_count": 24028
   },
   {
     "full_name": "madzadev/breakout",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "UndeadSec/SocialFishMobile",
-    "stargazers_count": 311,
+    "stargazers_count": 312,
     "open_issues_count": 2,
     "forks_count": 125
   }
