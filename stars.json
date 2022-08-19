@@ -1,45 +1,51 @@
 [
   {
+    "full_name": "jollyjerr/react-autosave",
+    "stargazers_count": 14,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "novuhq/novu",
-    "stargazers_count": 7427,
-    "open_issues_count": 66,
-    "forks_count": 362
+    "stargazers_count": 7947,
+    "open_issues_count": 61,
+    "forks_count": 380
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5148,
+    "stargazers_count": 5156,
     "open_issues_count": 27,
-    "forks_count": 224
+    "forks_count": 223
   },
   {
     "full_name": "primefaces/primereact",
-    "stargazers_count": 3040,
-    "open_issues_count": 206,
-    "forks_count": 623
+    "stargazers_count": 3048,
+    "open_issues_count": 207,
+    "forks_count": 625
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 919,
-    "open_issues_count": 83,
-    "forks_count": 852
+    "stargazers_count": 927,
+    "open_issues_count": 87,
+    "forks_count": 858
   },
   {
     "full_name": "withfig/autocomplete",
-    "stargazers_count": 19739,
-    "open_issues_count": 179,
-    "forks_count": 4616
+    "stargazers_count": 19787,
+    "open_issues_count": 174,
+    "forks_count": 4624
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 4759,
+    "stargazers_count": 4780,
     "open_issues_count": 38,
-    "forks_count": 69
+    "forks_count": 71
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 267,
-    "open_issues_count": 61,
-    "forks_count": 50
+    "stargazers_count": 274,
+    "open_issues_count": 60,
+    "forks_count": 54
   },
   {
     "full_name": "giuseppeg/refined-twitter-lite",
@@ -49,33 +55,33 @@
   },
   {
     "full_name": "openreplay/openreplay",
-    "stargazers_count": 5510,
-    "open_issues_count": 47,
-    "forks_count": 233
+    "stargazers_count": 5544,
+    "open_issues_count": 50,
+    "forks_count": 236
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 31484,
-    "open_issues_count": 349,
-    "forks_count": 693
+    "stargazers_count": 31848,
+    "open_issues_count": 358,
+    "forks_count": 701
   },
   {
     "full_name": "gsoft-inc/sg-orbit",
     "stargazers_count": 92,
-    "open_issues_count": 62,
+    "open_issues_count": 58,
     "forks_count": 33
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 54909,
+    "stargazers_count": 54949,
     "open_issues_count": 6,
-    "forks_count": 10592
+    "forks_count": 10600
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1873,
-    "open_issues_count": 64,
-    "forks_count": 312
+    "stargazers_count": 1882,
+    "open_issues_count": 61,
+    "forks_count": 314
   },
   {
     "full_name": "EddieHubCommunity/api",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "noob-hackers/infect",
-    "stargazers_count": 1247,
+    "stargazers_count": 1252,
     "open_issues_count": 2,
-    "forks_count": 207
+    "forks_count": 208
   },
   {
     "full_name": "WebDevSimplified/js-css-carousel",
@@ -115,21 +121,21 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 205412,
-    "open_issues_count": 20,
-    "forks_count": 23495
+    "stargazers_count": 205703,
+    "open_issues_count": 22,
+    "forks_count": 23554
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 147793,
+    "stargazers_count": 148609,
     "open_issues_count": 275,
-    "forks_count": 24563
+    "forks_count": 24655
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 125517,
+    "stargazers_count": 125657,
     "open_issues_count": 145,
-    "forks_count": 24031
+    "forks_count": 24055
   },
   {
     "full_name": "madzadev/breakout",
