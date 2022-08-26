@@ -1,15 +1,21 @@
 [
   {
-    "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
-    "stargazers_count": 4477,
+    "full_name": "argyleink/open-props",
+    "stargazers_count": 2303,
     "open_issues_count": 31,
-    "forks_count": 960
+    "forks_count": 104
+  },
+  {
+    "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
+    "stargazers_count": 4548,
+    "open_issues_count": 34,
+    "forks_count": 982
   },
   {
     "full_name": "fireship-io/flamethrower",
-    "stargazers_count": 2044,
-    "open_issues_count": 23,
-    "forks_count": 78
+    "stargazers_count": 2162,
+    "open_issues_count": 24,
+    "forks_count": 86
   },
   {
     "full_name": "jollyjerr/react-autosave",
@@ -19,45 +25,45 @@
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 8253,
-    "open_issues_count": 65,
-    "forks_count": 386
+    "stargazers_count": 8475,
+    "open_issues_count": 67,
+    "forks_count": 406
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5167,
-    "open_issues_count": 26,
-    "forks_count": 223
+    "stargazers_count": 5172,
+    "open_issues_count": 29,
+    "forks_count": 226
   },
   {
     "full_name": "primefaces/primereact",
-    "stargazers_count": 3058,
-    "open_issues_count": 206,
-    "forks_count": 625
+    "stargazers_count": 3073,
+    "open_issues_count": 202,
+    "forks_count": 626
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 976,
-    "open_issues_count": 93,
-    "forks_count": 881
+    "stargazers_count": 984,
+    "open_issues_count": 102,
+    "forks_count": 890
   },
   {
     "full_name": "withfig/autocomplete",
-    "stargazers_count": 19797,
-    "open_issues_count": 181,
-    "forks_count": 4623
+    "stargazers_count": 19815,
+    "open_issues_count": 180,
+    "forks_count": 4631
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 4836,
+    "stargazers_count": 4996,
     "open_issues_count": 34,
-    "forks_count": 71
+    "forks_count": 74
   },
   {
     "full_name": "themesberg/flowbite-react",
-    "stargazers_count": 283,
-    "open_issues_count": 61,
-    "forks_count": 56
+    "stargazers_count": 291,
+    "open_issues_count": 64,
+    "forks_count": 58
   },
   {
     "full_name": "giuseppeg/refined-twitter-lite",
@@ -67,32 +73,32 @@
   },
   {
     "full_name": "openreplay/openreplay",
-    "stargazers_count": 5562,
-    "open_issues_count": 51,
-    "forks_count": 239
+    "stargazers_count": 5595,
+    "open_issues_count": 57,
+    "forks_count": 241
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 32140,
-    "open_issues_count": 366,
-    "forks_count": 714
+    "stargazers_count": 32733,
+    "open_issues_count": 372,
+    "forks_count": 739
   },
   {
     "full_name": "gsoft-inc/sg-orbit",
     "stargazers_count": 92,
-    "open_issues_count": 59,
+    "open_issues_count": 57,
     "forks_count": 33
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 54994,
-    "open_issues_count": 6,
-    "forks_count": 10606
+    "stargazers_count": 55027,
+    "open_issues_count": 7,
+    "forks_count": 10612
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1887,
-    "open_issues_count": 66,
+    "stargazers_count": 1894,
+    "open_issues_count": 64,
     "forks_count": 315
   },
   {
@@ -103,15 +109,15 @@
   },
   {
     "full_name": "klaufel/awesome-design-systems",
-    "stargazers_count": 464,
+    "stargazers_count": 465,
     "open_issues_count": 0,
     "forks_count": 37
   },
   {
     "full_name": "noob-hackers/infect",
-    "stargazers_count": 1255,
+    "stargazers_count": 1262,
     "open_issues_count": 3,
-    "forks_count": 208
+    "forks_count": 209
   },
   {
     "full_name": "WebDevSimplified/js-css-carousel",
@@ -133,21 +139,21 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 206185,
+    "stargazers_count": 206829,
     "open_issues_count": 29,
-    "forks_count": 23605
+    "forks_count": 23657
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 148997,
-    "open_issues_count": 271,
-    "forks_count": 24698
+    "stargazers_count": 149236,
+    "open_issues_count": 273,
+    "forks_count": 24725
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 126247,
+    "stargazers_count": 126568,
     "open_issues_count": 145,
-    "forks_count": 24117
+    "forks_count": 24163
   },
   {
     "full_name": "madzadev/breakout",
