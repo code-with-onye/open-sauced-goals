@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "IanLunn/Hover",
+    "stargazers_count": 27429,
+    "open_issues_count": 39,
+    "forks_count": 5750
+  },
+  {
     "full_name": "pocketbase/js-sdk",
-    "stargazers_count": 537,
-    "open_issues_count": 2,
+    "stargazers_count": 549,
+    "open_issues_count": 3,
     "forks_count": 41
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 8066,
-    "open_issues_count": 30,
-    "forks_count": 350
+    "stargazers_count": 8188,
+    "open_issues_count": 16,
+    "forks_count": 354
   },
   {
     "full_name": "alioguzhan/react-editext",
@@ -19,164 +25,158 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 52193,
+    "stargazers_count": 52245,
     "open_issues_count": 153,
     "forks_count": 6373
   },
   {
     "full_name": "wasimreja/book-finder",
-    "stargazers_count": 74,
-    "open_issues_count": 2,
-    "forks_count": 136
+    "stargazers_count": 75,
+    "open_issues_count": 0,
+    "forks_count": 137
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 54890,
+    "stargazers_count": 55066,
     "open_issues_count": 122,
-    "forks_count": 5578
+    "forks_count": 5587
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 26581,
-    "open_issues_count": 16727,
-    "forks_count": 2627
+    "stargazers_count": 27376,
+    "open_issues_count": 16917,
+    "forks_count": 2664
   },
   {
     "full_name": "streamich/react-use",
-    "stargazers_count": 34014,
+    "stargazers_count": 34061,
     "open_issues_count": 523,
     "forks_count": 2691
   },
   {
     "full_name": "TanStack/table",
-    "stargazers_count": 19809,
-    "open_issues_count": 66,
-    "forks_count": 2636
+    "stargazers_count": 19843,
+    "open_issues_count": 59,
+    "forks_count": 2641
   },
   {
     "full_name": "dropzone/dropzone",
-    "stargazers_count": 16961,
+    "stargazers_count": 16960,
     "open_issues_count": 106,
     "forks_count": 3319
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 171556,
-    "open_issues_count": 268,
-    "forks_count": 16200
+    "stargazers_count": 172271,
+    "open_issues_count": 269,
+    "forks_count": 16265
   },
   {
     "full_name": "pomber/didact",
-    "stargazers_count": 5183,
+    "stargazers_count": 5187,
     "open_issues_count": 25,
-    "forks_count": 453
+    "forks_count": 454
   },
   {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 1232,
-    "open_issues_count": 2,
-    "forks_count": 180
+    "stargazers_count": 1241,
+    "open_issues_count": 3,
+    "forks_count": 181
   },
   {
     "full_name": "facebook/draft-js",
-    "stargazers_count": 22196,
+    "stargazers_count": 22201,
     "open_issues_count": 960,
-    "forks_count": 2661
+    "forks_count": 2665
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 18208,
-    "open_issues_count": 134,
-    "forks_count": 782
+    "stargazers_count": 18259,
+    "open_issues_count": 136,
+    "forks_count": 784
   },
   {
     "full_name": "hagopj13/node-express-boilerplate",
-    "stargazers_count": 4778,
+    "stargazers_count": 4790,
     "open_issues_count": 60,
-    "forks_count": 1412
+    "forks_count": 1416
   },
   {
     "full_name": "transitive-bullshit/nextjs-notion-starter-kit",
-    "stargazers_count": 3415,
-    "open_issues_count": 77,
-    "forks_count": 3020
+    "stargazers_count": 3422,
+    "open_issues_count": 79,
+    "forks_count": 3026
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 57431,
-    "open_issues_count": 991,
-    "forks_count": 9930
+    "stargazers_count": 57576,
+    "open_issues_count": 1149,
+    "forks_count": 9947
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 12279,
-    "open_issues_count": 181,
+    "stargazers_count": 12293,
+    "open_issues_count": 182,
     "forks_count": 722
   },
   {
     "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 22563,
-    "open_issues_count": 2781,
-    "forks_count": 1971
+    "stargazers_count": 22626,
+    "open_issues_count": 2777,
+    "forks_count": 1981
   },
   {
     "full_name": "Budibase/budibase",
-    "stargazers_count": 16258,
-    "open_issues_count": 685,
+    "stargazers_count": 16343,
+    "open_issues_count": 700,
     "forks_count": 957
   },
   {
     "full_name": "PavelDoGreat/WebGL-Fluid-Simulation",
-    "stargazers_count": 12641,
+    "stargazers_count": 12652,
     "open_issues_count": 63,
-    "forks_count": 1428
+    "forks_count": 1430
   },
   {
     "full_name": "wpengine/faustjs",
-    "stargazers_count": 1003,
-    "open_issues_count": 17,
+    "stargazers_count": 1006,
+    "open_issues_count": 18,
     "forks_count": 93
   },
   {
     "full_name": "TryGhost/Ghost",
-    "stargazers_count": 41677,
-    "open_issues_count": 67,
-    "forks_count": 9019
+    "stargazers_count": 41699,
+    "open_issues_count": 72,
+    "forks_count": 9020
   },
   {
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 4039,
-    "open_issues_count": 60,
-    "forks_count": 442
+    "stargazers_count": 4049,
+    "open_issues_count": 62,
+    "forks_count": 443
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 23038,
+    "stargazers_count": 23095,
     "open_issues_count": 27,
-    "forks_count": 2432
+    "forks_count": 2438
   },
   {
     "full_name": "MohamedRadwan-DevOps/devops-step-by-step",
-    "stargazers_count": 594,
-    "open_issues_count": 6,
+    "stargazers_count": 593,
+    "open_issues_count": 7,
     "forks_count": 141
   },
   {
     "full_name": "alyssaxuu/omni",
-    "stargazers_count": 5656,
+    "stargazers_count": 5667,
     "open_issues_count": 39,
-    "forks_count": 224
+    "forks_count": 225
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 14995,
+    "stargazers_count": 15030,
     "open_issues_count": 31,
-    "forks_count": 1259
-  },
-  {
-    "full_name": "react-boilerplate/react-boilerplate-cra-template",
-    "stargazers_count": 1632,
-    "open_issues_count": 5,
-    "forks_count": 336
+    "forks_count": 1264
   }
 ]
