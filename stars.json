@@ -1,115 +1,115 @@
 [
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 33197,
-    "open_issues_count": 14,
-    "forks_count": 1644
+    "stargazers_count": 33263,
+    "open_issues_count": 16,
+    "forks_count": 1649
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 9182,
-    "open_issues_count": 125,
-    "forks_count": 506
+    "stargazers_count": 9209,
+    "open_issues_count": 126,
+    "forks_count": 508
   },
   {
     "full_name": "nextui-org/tailwind-variants",
-    "stargazers_count": 125,
+    "stargazers_count": 136,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "Mokshit06/typewind",
-    "stargazers_count": 1717,
+    "stargazers_count": 1736,
     "open_issues_count": 5,
     "forks_count": 21
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 2497,
-    "open_issues_count": 3,
-    "forks_count": 41
+    "stargazers_count": 2547,
+    "open_issues_count": 0,
+    "forks_count": 43
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 86192,
+    "stargazers_count": 86302,
     "open_issues_count": 17,
-    "forks_count": 11290
+    "forks_count": 11298
   },
   {
     "full_name": "React-Proto/react-proto",
-    "stargazers_count": 3389,
-    "open_issues_count": 28,
+    "stargazers_count": 3390,
+    "open_issues_count": 29,
     "forks_count": 233
   },
   {
     "full_name": "ueberdosis/tiptap",
-    "stargazers_count": 18036,
-    "open_issues_count": 261,
-    "forks_count": 1640
+    "stargazers_count": 18090,
+    "open_issues_count": 266,
+    "forks_count": 1642
   },
   {
     "full_name": "resendlabs/react-email",
-    "stargazers_count": 4793,
-    "open_issues_count": 53,
-    "forks_count": 159
+    "stargazers_count": 4917,
+    "open_issues_count": 58,
+    "forks_count": 163
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 3126,
-    "open_issues_count": 71,
+    "stargazers_count": 3131,
+    "open_issues_count": 72,
     "forks_count": 101
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 10541,
-    "open_issues_count": 140,
-    "forks_count": 1163
+    "stargazers_count": 10557,
+    "open_issues_count": 141,
+    "forks_count": 1164
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 8129,
-    "open_issues_count": 113,
-    "forks_count": 311
+    "stargazers_count": 8156,
+    "open_issues_count": 114,
+    "forks_count": 312
   },
   {
     "full_name": "BuilderIO/builder",
-    "stargazers_count": 4519,
-    "open_issues_count": 311,
-    "forks_count": 583
+    "stargazers_count": 4542,
+    "open_issues_count": 303,
+    "forks_count": 589
   },
   {
     "full_name": "apitable/apitable",
-    "stargazers_count": 6973,
-    "open_issues_count": 71,
-    "forks_count": 380
+    "stargazers_count": 7131,
+    "open_issues_count": 75,
+    "forks_count": 401
   },
   {
     "full_name": "danielcranney/profileme-dev",
-    "stargazers_count": 370,
+    "stargazers_count": 378,
     "open_issues_count": 34,
-    "forks_count": 74
+    "forks_count": 78
   },
   {
     "full_name": "davidjerleke/embla-carousel",
-    "stargazers_count": 2930,
+    "stargazers_count": 2943,
     "open_issues_count": 5,
     "forks_count": 105
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 7072,
-    "open_issues_count": 64,
-    "forks_count": 112
+    "stargazers_count": 7101,
+    "open_issues_count": 66,
+    "forks_count": 114
   },
   {
     "full_name": "lukeed/clsx",
-    "stargazers_count": 4555,
-    "open_issues_count": 9,
+    "stargazers_count": 4587,
+    "open_issues_count": 8,
     "forks_count": 83
   },
   {
     "full_name": "lukeed/pwa",
-    "stargazers_count": 3101,
+    "stargazers_count": 3100,
     "open_issues_count": 18,
     "forks_count": 106
   },
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "ixartz/Next-js-Boilerplate",
-    "stargazers_count": 3340,
-    "open_issues_count": 4,
-    "forks_count": 730
+    "stargazers_count": 3354,
+    "open_issues_count": 3,
+    "forks_count": 738
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 32957,
-    "open_issues_count": 55,
-    "forks_count": 2086
+    "stargazers_count": 33028,
+    "open_issues_count": 53,
+    "forks_count": 2091
   },
   {
     "full_name": "IanLunn/Hover",
-    "stargazers_count": 28088,
+    "stargazers_count": 28097,
     "open_issues_count": 39,
-    "forks_count": 5795
+    "forks_count": 5797
   },
   {
     "full_name": "pocketbase/js-sdk",
-    "stargazers_count": 873,
+    "stargazers_count": 881,
     "open_issues_count": 2,
-    "forks_count": 59
+    "forks_count": 61
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 9345,
-    "open_issues_count": 23,
-    "forks_count": 435
+    "stargazers_count": 9374,
+    "open_issues_count": 27,
+    "forks_count": 439
   },
   {
     "full_name": "alioguzhan/react-editext",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 53839,
-    "open_issues_count": 160,
-    "forks_count": 6575
+    "stargazers_count": 53890,
+    "open_issues_count": 161,
+    "forks_count": 6577
   },
   {
     "full_name": "wasimreja/book-finder",
-    "stargazers_count": 84,
-    "open_issues_count": 6,
-    "forks_count": 138
+    "stargazers_count": 83,
+    "open_issues_count": 13,
+    "forks_count": 157
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 57742,
+    "stargazers_count": 57848,
     "open_issues_count": 131,
-    "forks_count": 5713
+    "forks_count": 5719
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 30330,
-    "open_issues_count": 20819,
-    "forks_count": 3066
+    "stargazers_count": 30465,
+    "open_issues_count": 21030,
+    "forks_count": 3092
   }
 ]
