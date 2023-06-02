@@ -1,135 +1,159 @@
 [
   {
+    "full_name": "chapter-three/next-drupal",
+    "stargazers_count": 391,
+    "open_issues_count": 133,
+    "forks_count": 127
+  },
+  {
+    "full_name": "shadcn/ui",
+    "stargazers_count": 18349,
+    "open_issues_count": 272,
+    "forks_count": 781
+  },
+  {
+    "full_name": "pacocoursey/cmdk",
+    "stargazers_count": 6198,
+    "open_issues_count": 35,
+    "forks_count": 164
+  },
+  {
+    "full_name": "calcom/cal.com",
+    "stargazers_count": 20164,
+    "open_issues_count": 694,
+    "forks_count": 2935
+  },
+  {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 5408,
-    "open_issues_count": 18,
-    "forks_count": 653
+    "stargazers_count": 5419,
+    "open_issues_count": 15,
+    "forks_count": 654
   },
   {
     "full_name": "react-pdf-viewer/react-pdf-viewer",
-    "stargazers_count": 1592,
+    "stargazers_count": 1595,
     "open_issues_count": 150,
-    "forks_count": 152
+    "forks_count": 151
   },
   {
     "full_name": "advanced-cropper/react-advanced-cropper",
-    "stargazers_count": 358,
+    "stargazers_count": 360,
     "open_issues_count": 5,
     "forks_count": 16
   },
   {
     "full_name": "gilbarbara/react-joyride",
-    "stargazers_count": 5644,
-    "open_issues_count": 17,
+    "stargazers_count": 5655,
+    "open_issues_count": 16,
     "forks_count": 484
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 7476,
-    "open_issues_count": 176,
-    "forks_count": 964
+    "stargazers_count": 7530,
+    "open_issues_count": 179,
+    "forks_count": 965
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 30469,
-    "open_issues_count": 18,
-    "forks_count": 2044
+    "stargazers_count": 30498,
+    "open_issues_count": 16,
+    "forks_count": 2047
   },
   {
     "full_name": "microsoft/TaskMatrix",
-    "stargazers_count": 33022,
-    "open_issues_count": 211,
-    "forks_count": 3161
+    "stargazers_count": 33082,
+    "open_issues_count": 215,
+    "forks_count": 3173
   },
   {
     "full_name": "niklasvh/html2canvas",
-    "stargazers_count": 28254,
-    "open_issues_count": 904,
-    "forks_count": 4640
+    "stargazers_count": 28272,
+    "open_issues_count": 907,
+    "forks_count": 4644
   },
   {
     "full_name": "ajikan/ScribeAI",
-    "stargazers_count": 106,
+    "stargazers_count": 108,
     "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 35062,
-    "open_issues_count": 9,
-    "forks_count": 1755
+    "stargazers_count": 35131,
+    "open_issues_count": 11,
+    "forks_count": 1762
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 10527,
+    "stargazers_count": 10565,
     "open_issues_count": 140,
-    "forks_count": 593
+    "forks_count": 597
   },
   {
     "full_name": "nextui-org/tailwind-variants",
-    "stargazers_count": 815,
-    "open_issues_count": 11,
+    "stargazers_count": 854,
+    "open_issues_count": 12,
     "forks_count": 15
   },
   {
     "full_name": "Mokshit06/typewind",
-    "stargazers_count": 2050,
+    "stargazers_count": 2058,
     "open_issues_count": 12,
     "forks_count": 23
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 3347,
+    "stargazers_count": 3383,
     "open_issues_count": 1,
     "forks_count": 63
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 91044,
+    "stargazers_count": 91139,
     "open_issues_count": 19,
-    "forks_count": 11865
+    "forks_count": 11880
   },
   {
     "full_name": "ueberdosis/tiptap",
-    "stargazers_count": 19155,
-    "open_issues_count": 241,
-    "forks_count": 1734
+    "stargazers_count": 19180,
+    "open_issues_count": 239,
+    "forks_count": 1735
   },
   {
     "full_name": "resendlabs/react-email",
-    "stargazers_count": 6686,
-    "open_issues_count": 42,
-    "forks_count": 272
+    "stargazers_count": 6802,
+    "open_issues_count": 43,
+    "forks_count": 275
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 3450,
+    "stargazers_count": 3453,
     "open_issues_count": 84,
     "forks_count": 120
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 10815,
+    "stargazers_count": 10820,
     "open_issues_count": 154,
-    "forks_count": 1206
+    "forks_count": 1207
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 8866,
-    "open_issues_count": 144,
+    "stargazers_count": 8888,
+    "open_issues_count": 143,
     "forks_count": 371
   },
   {
     "full_name": "BuilderIO/builder",
-    "stargazers_count": 5116,
-    "open_issues_count": 98,
+    "stargazers_count": 5129,
+    "open_issues_count": 99,
     "forks_count": 656
   },
   {
     "full_name": "apitable/apitable",
-    "stargazers_count": 8719,
-    "open_issues_count": 215,
-    "forks_count": 578
+    "stargazers_count": 8818,
+    "open_issues_count": 205,
+    "forks_count": 595
   },
   {
     "full_name": "danielcranney/profileme-dev",
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "davidjerleke/embla-carousel",
-    "stargazers_count": 3248,
+    "stargazers_count": 3263,
     "open_issues_count": 9,
     "forks_count": 107
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 8179,
-    "open_issues_count": 47,
-    "forks_count": 142
+    "stargazers_count": 8261,
+    "open_issues_count": 53,
+    "forks_count": 145
   },
   {
     "full_name": "lukeed/clsx",
-    "stargazers_count": 5206,
+    "stargazers_count": 5229,
     "open_issues_count": 9,
-    "forks_count": 93
-  },
-  {
-    "full_name": "lukeed/pwa",
-    "stargazers_count": 3107,
-    "open_issues_count": 18,
-    "forks_count": 106
-  },
-  {
-    "full_name": "sivertschou/dundring",
-    "stargazers_count": 30,
-    "open_issues_count": 61,
-    "forks_count": 3
-  },
-  {
-    "full_name": "ixartz/Next-js-Boilerplate",
-    "stargazers_count": 3959,
-    "open_issues_count": 3,
-    "forks_count": 872
-  },
-  {
-    "full_name": "TanStack/query",
-    "stargazers_count": 34748,
-    "open_issues_count": 43,
-    "forks_count": 2253
+    "forks_count": 94
   }
 ]
