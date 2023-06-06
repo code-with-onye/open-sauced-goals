@@ -1,182 +1,182 @@
 [
   {
     "full_name": "chapter-three/next-drupal",
-    "stargazers_count": 391,
+    "stargazers_count": 396,
     "open_issues_count": 133,
-    "forks_count": 127
+    "forks_count": 128
   },
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 18349,
-    "open_issues_count": 272,
-    "forks_count": 781
+    "stargazers_count": 19329,
+    "open_issues_count": 285,
+    "forks_count": 824
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 6198,
-    "open_issues_count": 35,
-    "forks_count": 164
+    "stargazers_count": 6237,
+    "open_issues_count": 36,
+    "forks_count": 165
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 20164,
-    "open_issues_count": 694,
-    "forks_count": 2935
+    "stargazers_count": 20309,
+    "open_issues_count": 706,
+    "forks_count": 2977
   },
   {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 5419,
+    "stargazers_count": 5433,
     "open_issues_count": 15,
-    "forks_count": 654
+    "forks_count": 655
   },
   {
     "full_name": "react-pdf-viewer/react-pdf-viewer",
-    "stargazers_count": 1595,
+    "stargazers_count": 1601,
     "open_issues_count": 150,
     "forks_count": 151
   },
   {
     "full_name": "advanced-cropper/react-advanced-cropper",
-    "stargazers_count": 360,
+    "stargazers_count": 361,
     "open_issues_count": 5,
     "forks_count": 16
   },
   {
     "full_name": "gilbarbara/react-joyride",
-    "stargazers_count": 5655,
+    "stargazers_count": 5660,
     "open_issues_count": 16,
     "forks_count": 484
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 7530,
-    "open_issues_count": 179,
-    "forks_count": 965
+    "stargazers_count": 7582,
+    "open_issues_count": 183,
+    "forks_count": 968
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 30498,
-    "open_issues_count": 16,
+    "stargazers_count": 30524,
+    "open_issues_count": 14,
     "forks_count": 2047
   },
   {
     "full_name": "microsoft/TaskMatrix",
-    "stargazers_count": 33082,
-    "open_issues_count": 215,
-    "forks_count": 3173
+    "stargazers_count": 33142,
+    "open_issues_count": 219,
+    "forks_count": 3184
   },
   {
     "full_name": "niklasvh/html2canvas",
-    "stargazers_count": 28272,
+    "stargazers_count": 28294,
     "open_issues_count": 907,
-    "forks_count": 4644
+    "forks_count": 4647
   },
   {
     "full_name": "ajikan/ScribeAI",
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 1,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 35131,
-    "open_issues_count": 11,
-    "forks_count": 1762
+    "stargazers_count": 35211,
+    "open_issues_count": 10,
+    "forks_count": 1769
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 10565,
-    "open_issues_count": 140,
-    "forks_count": 597
+    "stargazers_count": 10603,
+    "open_issues_count": 143,
+    "forks_count": 600
   },
   {
     "full_name": "nextui-org/tailwind-variants",
-    "stargazers_count": 854,
-    "open_issues_count": 12,
+    "stargazers_count": 868,
+    "open_issues_count": 13,
     "forks_count": 15
   },
   {
     "full_name": "Mokshit06/typewind",
-    "stargazers_count": 2058,
+    "stargazers_count": 2059,
     "open_issues_count": 12,
     "forks_count": 23
   },
   {
     "full_name": "joe-bell/cva",
-    "stargazers_count": 3383,
-    "open_issues_count": 1,
-    "forks_count": 63
+    "stargazers_count": 3408,
+    "open_issues_count": 2,
+    "forks_count": 64
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 91139,
+    "stargazers_count": 91236,
     "open_issues_count": 19,
-    "forks_count": 11880
+    "forks_count": 11889
   },
   {
     "full_name": "ueberdosis/tiptap",
-    "stargazers_count": 19180,
-    "open_issues_count": 239,
-    "forks_count": 1735
+    "stargazers_count": 19216,
+    "open_issues_count": 234,
+    "forks_count": 1737
   },
   {
     "full_name": "resendlabs/react-email",
-    "stargazers_count": 6802,
-    "open_issues_count": 43,
-    "forks_count": 275
+    "stargazers_count": 6885,
+    "open_issues_count": 40,
+    "forks_count": 280
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 3453,
+    "stargazers_count": 3455,
     "open_issues_count": 84,
     "forks_count": 120
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 10820,
-    "open_issues_count": 154,
-    "forks_count": 1207
+    "stargazers_count": 10825,
+    "open_issues_count": 157,
+    "forks_count": 1208
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 8888,
-    "open_issues_count": 143,
-    "forks_count": 371
+    "stargazers_count": 8902,
+    "open_issues_count": 142,
+    "forks_count": 370
   },
   {
     "full_name": "BuilderIO/builder",
-    "stargazers_count": 5129,
-    "open_issues_count": 99,
-    "forks_count": 656
+    "stargazers_count": 5141,
+    "open_issues_count": 110,
+    "forks_count": 657
   },
   {
     "full_name": "apitable/apitable",
-    "stargazers_count": 8818,
-    "open_issues_count": 205,
-    "forks_count": 595
+    "stargazers_count": 8871,
+    "open_issues_count": 213,
+    "forks_count": 607
   },
   {
     "full_name": "danielcranney/profileme-dev",
-    "stargazers_count": 493,
+    "stargazers_count": 500,
     "open_issues_count": 37,
     "forks_count": 91
   },
   {
     "full_name": "davidjerleke/embla-carousel",
-    "stargazers_count": 3263,
-    "open_issues_count": 9,
-    "forks_count": 107
+    "stargazers_count": 3276,
+    "open_issues_count": 10,
+    "forks_count": 106
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 8261,
-    "open_issues_count": 53,
+    "stargazers_count": 8278,
+    "open_issues_count": 50,
     "forks_count": 145
   },
   {
     "full_name": "lukeed/clsx",
-    "stargazers_count": 5229,
+    "stargazers_count": 5240,
     "open_issues_count": 9,
-    "forks_count": 94
+    "forks_count": 93
   }
 ]
