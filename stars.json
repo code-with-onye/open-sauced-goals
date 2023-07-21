@@ -1,81 +1,87 @@
 [
   {
+    "full_name": "nobox-org/nobox-js-client",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 355,
-    "open_issues_count": 22,
-    "forks_count": 15
+    "stargazers_count": 448,
+    "open_issues_count": 24,
+    "forks_count": 20
   },
   {
     "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 144120,
-    "open_issues_count": 720,
-    "forks_count": 31082
+    "stargazers_count": 144439,
+    "open_issues_count": 721,
+    "forks_count": 31175
   },
   {
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 3045,
+    "stargazers_count": 3056,
     "open_issues_count": 0,
     "forks_count": 61
   },
   {
     "full_name": "master-co/css",
-    "stargazers_count": 1546,
-    "open_issues_count": 55,
-    "forks_count": 39
+    "stargazers_count": 1545,
+    "open_issues_count": 56,
+    "forks_count": 38
   },
   {
     "full_name": "xitanggg/open-resume",
-    "stargazers_count": 3290,
-    "open_issues_count": 30,
-    "forks_count": 210
+    "stargazers_count": 3317,
+    "open_issues_count": 32,
+    "forks_count": 214
   },
   {
     "full_name": "unkeyed/unkey",
-    "stargazers_count": 698,
-    "open_issues_count": 16,
-    "forks_count": 33
+    "stargazers_count": 702,
+    "open_issues_count": 21,
+    "forks_count": 35
   },
   {
     "full_name": "FlowiseAI/Flowise",
-    "stargazers_count": 10721,
-    "open_issues_count": 104,
-    "forks_count": 3633
+    "stargazers_count": 10928,
+    "open_issues_count": 101,
+    "forks_count": 3806
   },
   {
     "full_name": "react-page/react-page",
-    "stargazers_count": 9220,
-    "open_issues_count": 11,
+    "stargazers_count": 9222,
+    "open_issues_count": 12,
     "forks_count": 651
   },
   {
     "full_name": "phosphor-icons/homepage",
-    "stargazers_count": 2718,
-    "open_issues_count": 110,
+    "stargazers_count": 2731,
+    "open_issues_count": 113,
     "forks_count": 70
   },
   {
     "full_name": "prevwong/craft.js",
-    "stargazers_count": 5969,
+    "stargazers_count": 5977,
     "open_issues_count": 168,
-    "forks_count": 606
+    "forks_count": 607
   },
   {
     "full_name": "blocks/blocks",
-    "stargazers_count": 4744,
+    "stargazers_count": 4745,
     "open_issues_count": 66,
-    "forks_count": 309
+    "forks_count": 311
   },
   {
     "full_name": "webiny/webiny-js",
-    "stargazers_count": 6674,
-    "open_issues_count": 243,
+    "stargazers_count": 6678,
+    "open_issues_count": 242,
     "forks_count": 538
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 3804,
-    "open_issues_count": 9,
-    "forks_count": 433
+    "stargazers_count": 3856,
+    "open_issues_count": 10,
+    "forks_count": 439
   },
   {
     "full_name": "vercel/static-fun",
@@ -85,75 +91,75 @@
   },
   {
     "full_name": "chapter-three/next-drupal",
-    "stargazers_count": 428,
-    "open_issues_count": 140,
-    "forks_count": 134
+    "stargazers_count": 429,
+    "open_issues_count": 139,
+    "forks_count": 135
   },
   {
-    "full_name": "shadcn/ui",
-    "stargazers_count": 24639,
-    "open_issues_count": 480,
-    "forks_count": 1158
+    "full_name": "shadcn-ui/ui",
+    "stargazers_count": 24992,
+    "open_issues_count": 499,
+    "forks_count": 1178
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 6537,
-    "open_issues_count": 41,
-    "forks_count": 176
+    "stargazers_count": 6563,
+    "open_issues_count": 43,
+    "forks_count": 178
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 21242,
-    "open_issues_count": 655,
-    "forks_count": 3306
+    "stargazers_count": 21322,
+    "open_issues_count": 647,
+    "forks_count": 3334
   },
   {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 5615,
+    "stargazers_count": 5629,
     "open_issues_count": 21,
     "forks_count": 678
   },
   {
     "full_name": "react-pdf-viewer/react-pdf-viewer",
-    "stargazers_count": 1662,
-    "open_issues_count": 166,
+    "stargazers_count": 1669,
+    "open_issues_count": 168,
     "forks_count": 157
   },
   {
     "full_name": "advanced-cropper/react-advanced-cropper",
-    "stargazers_count": 382,
-    "open_issues_count": 7,
+    "stargazers_count": 386,
+    "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "gilbarbara/react-joyride",
-    "stargazers_count": 5763,
-    "open_issues_count": 17,
+    "stargazers_count": 5777,
+    "open_issues_count": 16,
     "forks_count": 485
   },
   {
     "full_name": "shuding/nextra",
-    "stargazers_count": 8071,
-    "open_issues_count": 223,
-    "forks_count": 1004
+    "stargazers_count": 8103,
+    "open_issues_count": 227,
+    "forks_count": 1005
   },
   {
     "full_name": "naptha/tesseract.js",
-    "stargazers_count": 31028,
+    "stargazers_count": 31049,
     "open_issues_count": 14,
-    "forks_count": 2074
+    "forks_count": 2076
   },
   {
     "full_name": "microsoft/TaskMatrix",
-    "stargazers_count": 33700,
+    "stargazers_count": 33724,
     "open_issues_count": 227,
-    "forks_count": 3262
+    "forks_count": 3267
   },
   {
     "full_name": "niklasvh/html2canvas",
-    "stargazers_count": 28505,
-    "open_issues_count": 923,
-    "forks_count": 4691
+    "stargazers_count": 28522,
+    "open_issues_count": 924,
+    "forks_count": 4692
   },
   {
     "full_name": "ajikan/ScribeAI",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 35887,
-    "open_issues_count": 16,
-    "forks_count": 1805
+    "stargazers_count": 35944,
+    "open_issues_count": 21,
+    "forks_count": 1809
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 11019,
-    "open_issues_count": 160,
+    "stargazers_count": 11037,
+    "open_issues_count": 164,
     "forks_count": 634
-  },
-  {
-    "full_name": "nextui-org/tailwind-variants",
-    "stargazers_count": 1071,
-    "open_issues_count": 16,
-    "forks_count": 23
   }
 ]
