@@ -1,67 +1,73 @@
 [
   {
+    "full_name": "KillianLucas/open-interpreter",
+    "stargazers_count": 21476,
+    "open_issues_count": 149,
+    "forks_count": 1719
+  },
+  {
     "full_name": "chroma-core/chroma",
-    "stargazers_count": 8479,
-    "open_issues_count": 179,
-    "forks_count": 636
+    "stargazers_count": 8534,
+    "open_issues_count": 182,
+    "forks_count": 643
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 4290,
-    "open_issues_count": 90,
-    "forks_count": 157
+    "stargazers_count": 4337,
+    "open_issues_count": 92,
+    "forks_count": 162
   },
   {
     "full_name": "langchain-ai/langchain-nextjs-template",
-    "stargazers_count": 239,
-    "open_issues_count": 1,
-    "forks_count": 31
+    "stargazers_count": 244,
+    "open_issues_count": 2,
+    "forks_count": 34
   },
   {
     "full_name": "kyrolabs/awesome-langchain",
-    "stargazers_count": 4873,
-    "open_issues_count": 3,
-    "forks_count": 317
+    "stargazers_count": 4914,
+    "open_issues_count": 0,
+    "forks_count": 321
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 17294,
-    "open_issues_count": 92,
-    "forks_count": 1155
+    "stargazers_count": 17341,
+    "open_issues_count": 95,
+    "forks_count": 1158
   },
   {
     "full_name": "logspace-ai/langflow",
-    "stargazers_count": 12143,
-    "open_issues_count": 99,
-    "forks_count": 1675
+    "stargazers_count": 12216,
+    "open_issues_count": 101,
+    "forks_count": 1689
   },
   {
     "full_name": "geekan/MetaGPT",
-    "stargazers_count": 25804,
-    "open_issues_count": 136,
-    "forks_count": 2940
+    "stargazers_count": 26063,
+    "open_issues_count": 152,
+    "forks_count": 2984
   },
   {
     "full_name": "subhamBharadwaz/scribbly",
-    "stargazers_count": 277,
+    "stargazers_count": 278,
     "open_issues_count": 3,
     "forks_count": 19
   },
   {
     "full_name": "scanapp-org/html5-qrcode-react",
-    "stargazers_count": 60,
+    "stargazers_count": 62,
     "open_issues_count": 8,
     "forks_count": 23
   },
   {
     "full_name": "colbyfayock/next-cloudinary",
     "stargazers_count": 161,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 35
   },
   {
     "full_name": "emilkowalski/vaul",
-    "stargazers_count": 2585,
+    "stargazers_count": 2658,
     "open_issues_count": 2,
     "forks_count": 55
   },
@@ -69,55 +75,55 @@
     "full_name": "homanp/langchain-ui",
     "stargazers_count": 799,
     "open_issues_count": 21,
-    "forks_count": 137
+    "forks_count": 138
   },
   {
     "full_name": "gmpetrov/databerry",
-    "stargazers_count": 2495,
-    "open_issues_count": 78,
-    "forks_count": 299
+    "stargazers_count": 2501,
+    "open_issues_count": 80,
+    "forks_count": 300
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 5148,
-    "open_issues_count": 507,
-    "forks_count": 418
+    "stargazers_count": 5176,
+    "open_issues_count": 495,
+    "forks_count": 423
   },
   {
     "full_name": "bestofjs/bestofjs",
-    "stargazers_count": 2238,
+    "stargazers_count": 2242,
     "open_issues_count": 6,
     "forks_count": 141
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 12710,
-    "open_issues_count": 88,
-    "forks_count": 343
+    "stargazers_count": 12746,
+    "open_issues_count": 89,
+    "forks_count": 345
   },
   {
     "full_name": "TypeCellOS/BlockNote",
-    "stargazers_count": 3502,
+    "stargazers_count": 3526,
     "open_issues_count": 72,
-    "forks_count": 181
+    "forks_count": 186
   },
   {
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 8903,
-    "open_issues_count": 319,
-    "forks_count": 503
+    "stargazers_count": 8934,
+    "open_issues_count": 320,
+    "forks_count": 504
   },
   {
     "full_name": "clauderic/react-sortable-hoc",
-    "stargazers_count": 10535,
-    "open_issues_count": 287,
-    "forks_count": 1024
+    "stargazers_count": 10538,
+    "open_issues_count": 288,
+    "forks_count": 1025
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 41480,
-    "open_issues_count": 274,
-    "forks_count": 6928
+    "stargazers_count": 41736,
+    "open_issues_count": 281,
+    "forks_count": 6989
   },
   {
     "full_name": "nobox-org/nobox-js-client",
@@ -127,56 +133,50 @@
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 1842,
-    "open_issues_count": 29,
-    "forks_count": 90
+    "stargazers_count": 1865,
+    "open_issues_count": 30,
+    "forks_count": 91
   },
   {
     "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 148363,
+    "stargazers_count": 148584,
     "open_issues_count": 719,
-    "forks_count": 32127
+    "forks_count": 32197
   },
   {
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 3622,
+    "stargazers_count": 3668,
     "open_issues_count": 1,
-    "forks_count": 78
+    "forks_count": 80
   },
   {
     "full_name": "master-co/css",
-    "stargazers_count": 1560,
-    "open_issues_count": 54,
+    "stargazers_count": 1562,
+    "open_issues_count": 51,
     "forks_count": 38
   },
   {
     "full_name": "xitanggg/open-resume",
-    "stargazers_count": 4180,
-    "open_issues_count": 43,
-    "forks_count": 308
+    "stargazers_count": 4256,
+    "open_issues_count": 44,
+    "forks_count": 315
   },
   {
     "full_name": "unkeyed/unkey",
-    "stargazers_count": 786,
-    "open_issues_count": 11,
+    "stargazers_count": 788,
+    "open_issues_count": 12,
     "forks_count": 45
   },
   {
     "full_name": "FlowiseAI/Flowise",
-    "stargazers_count": 15490,
-    "open_issues_count": 176,
-    "forks_count": 6668
+    "stargazers_count": 15646,
+    "open_issues_count": 177,
+    "forks_count": 6778
   },
   {
     "full_name": "react-page/react-page",
-    "stargazers_count": 9263,
+    "stargazers_count": 9266,
     "open_issues_count": 8,
     "forks_count": 652
-  },
-  {
-    "full_name": "phosphor-icons/homepage",
-    "stargazers_count": 2925,
-    "open_issues_count": 149,
-    "forks_count": 72
   }
 ]
