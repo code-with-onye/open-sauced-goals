@@ -1,98 +1,98 @@
 [
   {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 9085,
-    "open_issues_count": 81,
-    "forks_count": 900
+    "stargazers_count": 11064,
+    "open_issues_count": 96,
+    "forks_count": 1102
   },
   {
     "full_name": "haotian-liu/LLaVA",
-    "stargazers_count": 8037,
-    "open_issues_count": 277,
-    "forks_count": 706
+    "stargazers_count": 8555,
+    "open_issues_count": 284,
+    "forks_count": 756
   },
   {
     "full_name": "tryolabs/norfair",
-    "stargazers_count": 2164,
+    "stargazers_count": 2168,
     "open_issues_count": 11,
     "forks_count": 215
   },
   {
     "full_name": "new-data-services/tailwindcss-animated",
-    "stargazers_count": 260,
+    "stargazers_count": 267,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "KillianLucas/open-interpreter",
-    "stargazers_count": 29139,
-    "open_issues_count": 281,
-    "forks_count": 2508
+    "stargazers_count": 29509,
+    "open_issues_count": 274,
+    "forks_count": 2550
   },
   {
     "full_name": "chroma-core/chroma",
-    "stargazers_count": 8981,
-    "open_issues_count": 210,
-    "forks_count": 697
+    "stargazers_count": 9029,
+    "open_issues_count": 207,
+    "forks_count": 703
   },
   {
     "full_name": "triggerdotdev/trigger.dev",
-    "stargazers_count": 5090,
-    "open_issues_count": 105,
-    "forks_count": 223
+    "stargazers_count": 5164,
+    "open_issues_count": 112,
+    "forks_count": 234
   },
   {
     "full_name": "langchain-ai/langchain-nextjs-template",
-    "stargazers_count": 440,
+    "stargazers_count": 449,
     "open_issues_count": 3,
-    "forks_count": 64
+    "forks_count": 66
   },
   {
     "full_name": "kyrolabs/awesome-langchain",
-    "stargazers_count": 5206,
-    "open_issues_count": 0,
-    "forks_count": 343
+    "stargazers_count": 5243,
+    "open_issues_count": 1,
+    "forks_count": 346
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 17664,
-    "open_issues_count": 91,
-    "forks_count": 1184
+    "stargazers_count": 17725,
+    "open_issues_count": 90,
+    "forks_count": 1186
   },
   {
     "full_name": "logspace-ai/langflow",
-    "stargazers_count": 12720,
-    "open_issues_count": 100,
-    "forks_count": 1825
+    "stargazers_count": 12781,
+    "open_issues_count": 82,
+    "forks_count": 1840
   },
   {
     "full_name": "geekan/MetaGPT",
-    "stargazers_count": 27773,
-    "open_issues_count": 169,
-    "forks_count": 3269
+    "stargazers_count": 28734,
+    "open_issues_count": 172,
+    "forks_count": 3342
   },
   {
     "full_name": "subhamBharadwaz/scribbly",
-    "stargazers_count": 295,
+    "stargazers_count": 297,
     "open_issues_count": 6,
     "forks_count": 24
   },
   {
     "full_name": "scanapp-org/html5-qrcode-react",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 8,
     "forks_count": 24
   },
   {
     "full_name": "colbyfayock/next-cloudinary",
-    "stargazers_count": 173,
-    "open_issues_count": 22,
-    "forks_count": 47
+    "stargazers_count": 174,
+    "open_issues_count": 18,
+    "forks_count": 48
   },
   {
     "full_name": "emilkowalski/vaul",
-    "stargazers_count": 2879,
-    "open_issues_count": 5,
+    "stargazers_count": 2901,
+    "open_issues_count": 6,
     "forks_count": 64
   },
   {
@@ -103,51 +103,51 @@
   },
   {
     "full_name": "gmpetrov/databerry",
-    "stargazers_count": 2560,
-    "open_issues_count": 93,
-    "forks_count": 313
+    "stargazers_count": 2570,
+    "open_issues_count": 99,
+    "forks_count": 317
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 5417,
-    "open_issues_count": 508,
-    "forks_count": 439
+    "stargazers_count": 5442,
+    "open_issues_count": 519,
+    "forks_count": 441
   },
   {
     "full_name": "bestofjs/bestofjs",
-    "stargazers_count": 2255,
-    "open_issues_count": 7,
+    "stargazers_count": 2258,
+    "open_issues_count": 11,
     "forks_count": 141
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 13158,
-    "open_issues_count": 74,
-    "forks_count": 360
+    "stargazers_count": 13202,
+    "open_issues_count": 75,
+    "forks_count": 364
   },
   {
     "full_name": "TypeCellOS/BlockNote",
-    "stargazers_count": 3697,
-    "open_issues_count": 69,
+    "stargazers_count": 3749,
+    "open_issues_count": 75,
     "forks_count": 193
   },
   {
     "full_name": "clauderic/dnd-kit",
-    "stargazers_count": 9228,
-    "open_issues_count": 325,
-    "forks_count": 513
+    "stargazers_count": 9282,
+    "open_issues_count": 324,
+    "forks_count": 515
   },
   {
     "full_name": "clauderic/react-sortable-hoc",
-    "stargazers_count": 10553,
+    "stargazers_count": 10556,
     "open_issues_count": 288,
-    "forks_count": 1025
+    "forks_count": 1026
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 43388,
-    "open_issues_count": 281,
-    "forks_count": 7294
+    "stargazers_count": 43567,
+    "open_issues_count": 277,
+    "forks_count": 7321
   },
   {
     "full_name": "nobox-org/nobox-js-client",
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 2774,
-    "open_issues_count": 24,
-    "forks_count": 117
+    "stargazers_count": 2809,
+    "open_issues_count": 29,
+    "forks_count": 118
   },
   {
     "full_name": "Significant-Gravitas/AutoGPT",
-    "stargazers_count": 150557,
-    "open_issues_count": 286,
-    "forks_count": 34054
+    "stargazers_count": 150839,
+    "open_issues_count": 317,
+    "forks_count": 34340
   },
   {
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 4613,
-    "open_issues_count": 8,
-    "forks_count": 110
+    "stargazers_count": 4674,
+    "open_issues_count": 7,
+    "forks_count": 111
   },
   {
     "full_name": "master-co/css",
-    "stargazers_count": 1578,
+    "stargazers_count": 1581,
     "open_issues_count": 51,
     "forks_count": 41
   }
