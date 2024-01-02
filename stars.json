@@ -1,122 +1,128 @@
 [
   {
+    "full_name": "lucastononro/llm-food-delivery",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 3472,
-    "open_issues_count": 5,
-    "forks_count": 410
+    "stargazers_count": 5226,
+    "open_issues_count": 7,
+    "forks_count": 595
   },
   {
     "full_name": "chathub-dev/chathub",
-    "stargazers_count": 8923,
-    "open_issues_count": 231,
-    "forks_count": 846
+    "stargazers_count": 8959,
+    "open_issues_count": 232,
+    "forks_count": 854
   },
   {
     "full_name": "HumanAIGC/OutfitAnyone",
-    "stargazers_count": 3713,
+    "stargazers_count": 3799,
     "open_issues_count": 29,
-    "forks_count": 342
+    "forks_count": 346
   },
   {
     "full_name": "googleapis/nodejs-vertexai",
     "stargazers_count": 48,
     "open_issues_count": 12,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "sst/open-next",
-    "stargazers_count": 3173,
+    "stargazers_count": 3180,
     "open_issues_count": 39,
     "forks_count": 89
   },
   {
     "full_name": "langchain-ai/opengpts",
-    "stargazers_count": 5000,
-    "open_issues_count": 54,
-    "forks_count": 565
+    "stargazers_count": 5022,
+    "open_issues_count": 57,
+    "forks_count": 571
   },
   {
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 13390,
+    "stargazers_count": 13540,
     "open_issues_count": 34,
-    "forks_count": 2342
+    "forks_count": 2360
   },
   {
     "full_name": "MoyGcc/vid2avatar",
-    "stargazers_count": 1093,
+    "stargazers_count": 1098,
     "open_issues_count": 19,
     "forks_count": 91
   },
   {
     "full_name": "Stability-AI/generative-models",
-    "stargazers_count": 18132,
-    "open_issues_count": 186,
-    "forks_count": 2213
+    "stargazers_count": 18224,
+    "open_issues_count": 187,
+    "forks_count": 2232
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 21072,
-    "open_issues_count": 413,
-    "forks_count": 1871
+    "stargazers_count": 21104,
+    "open_issues_count": 416,
+    "forks_count": 1874
   },
   {
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 26836,
-    "open_issues_count": 101,
-    "forks_count": 1194
+    "stargazers_count": 26846,
+    "open_issues_count": 103,
+    "forks_count": 1193
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 29415,
-    "open_issues_count": 209,
-    "forks_count": 1692
+    "stargazers_count": 29460,
+    "open_issues_count": 211,
+    "forks_count": 1702
   },
   {
     "full_name": "SawyerHood/draw-a-ui",
-    "stargazers_count": 12189,
+    "stargazers_count": 12209,
     "open_issues_count": 40,
-    "forks_count": 1384
+    "forks_count": 1389
   },
   {
     "full_name": "tldraw/make-real",
-    "stargazers_count": 4116,
+    "stargazers_count": 4135,
     "open_issues_count": 8,
-    "forks_count": 433
+    "forks_count": 436
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 25411,
-    "open_issues_count": 598,
-    "forks_count": 3138
+    "stargazers_count": 25442,
+    "open_issues_count": 615,
+    "forks_count": 3145
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 5802,
-    "open_issues_count": 72,
-    "forks_count": 277
+    "stargazers_count": 5840,
+    "open_issues_count": 71,
+    "forks_count": 281
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 21165,
-    "open_issues_count": 29,
-    "forks_count": 12233
+    "stargazers_count": 21292,
+    "open_issues_count": 30,
+    "forks_count": 12407
   },
   {
     "full_name": "balderdashy/sails",
-    "stargazers_count": 22730,
-    "open_issues_count": 583,
+    "stargazers_count": 22736,
+    "open_issues_count": 584,
     "forks_count": 2001
   },
   {
     "full_name": "langfuse/langfuse",
-    "stargazers_count": 1663,
-    "open_issues_count": 57,
-    "forks_count": 129
+    "stargazers_count": 1676,
+    "open_issues_count": 64,
+    "forks_count": 130
   },
   {
     "full_name": "edgestorejs/edgestore",
-    "stargazers_count": 264,
-    "open_issues_count": 5,
+    "stargazers_count": 269,
+    "open_issues_count": 6,
     "forks_count": 15
   },
   {
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "muxinc/next-video",
-    "stargazers_count": 374,
+    "stargazers_count": 379,
     "open_issues_count": 14,
     "forks_count": 6
   },
   {
     "full_name": "run-llama/llama_index",
-    "stargazers_count": 25882,
-    "open_issues_count": 318,
-    "forks_count": 3264
+    "stargazers_count": 26001,
+    "open_issues_count": 330,
+    "forks_count": 3291
   },
   {
     "full_name": "ImBIOS/next-pwa",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 18969,
-    "open_issues_count": 365,
-    "forks_count": 2357
+    "stargazers_count": 19108,
+    "open_issues_count": 369,
+    "forks_count": 2383
   },
   {
     "full_name": "haotian-liu/LLaVA",
-    "stargazers_count": 12007,
-    "open_issues_count": 447,
-    "forks_count": 1233
+    "stargazers_count": 12074,
+    "open_issues_count": 451,
+    "forks_count": 1239
   },
   {
     "full_name": "tryolabs/norfair",
-    "stargazers_count": 2216,
+    "stargazers_count": 2218,
     "open_issues_count": 11,
     "forks_count": 223
   },
   {
     "full_name": "new-data-services/tailwindcss-animated",
-    "stargazers_count": 341,
+    "stargazers_count": 347,
     "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "KillianLucas/open-interpreter",
-    "stargazers_count": 35487,
-    "open_issues_count": 144,
-    "forks_count": 3109
-  },
-  {
-    "full_name": "chroma-core/chroma",
-    "stargazers_count": 10206,
-    "open_issues_count": 289,
-    "forks_count": 830
+    "stargazers_count": 35585,
+    "open_issues_count": 148,
+    "forks_count": 3112
   }
 ]
