@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "huntabyte/bits-ui",
+    "stargazers_count": 390,
+    "open_issues_count": 10,
+    "forks_count": 28
+  },
+  {
+    "full_name": "huntabyte/shadcn-svelte",
+    "stargazers_count": 2660,
+    "open_issues_count": 23,
+    "forks_count": 131
+  },
+  {
     "full_name": "transloadit/uppy",
-    "stargazers_count": 27741,
-    "open_issues_count": 153,
-    "forks_count": 1954
+    "stargazers_count": 27746,
+    "open_issues_count": 155,
+    "forks_count": 1959
   },
   {
     "full_name": "bytescale/bytescale-javascript-sdk",
@@ -13,51 +25,51 @@
   },
   {
     "full_name": "lucastononro/llm-food-delivery",
-    "stargazers_count": 163,
+    "stargazers_count": 171,
     "open_issues_count": 1,
-    "forks_count": 40
+    "forks_count": 44
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 14311,
+    "stargazers_count": 14936,
     "open_issues_count": 12,
-    "forks_count": 1347
+    "forks_count": 1426
   },
   {
     "full_name": "chathub-dev/chathub",
-    "stargazers_count": 9005,
-    "open_issues_count": 239,
-    "forks_count": 862
+    "stargazers_count": 9023,
+    "open_issues_count": 236,
+    "forks_count": 864
   },
   {
     "full_name": "HumanAIGC/OutfitAnyone",
-    "stargazers_count": 3953,
-    "open_issues_count": 29,
-    "forks_count": 364
+    "stargazers_count": 4031,
+    "open_issues_count": 31,
+    "forks_count": 366
   },
   {
     "full_name": "googleapis/nodejs-vertexai",
-    "stargazers_count": 48,
-    "open_issues_count": 11,
+    "stargazers_count": 49,
+    "open_issues_count": 10,
     "forks_count": 9
   },
   {
     "full_name": "sst/open-next",
-    "stargazers_count": 3206,
-    "open_issues_count": 37,
-    "forks_count": 93
+    "stargazers_count": 3211,
+    "open_issues_count": 39,
+    "forks_count": 92
   },
   {
     "full_name": "langchain-ai/opengpts",
-    "stargazers_count": 5072,
+    "stargazers_count": 5096,
     "open_issues_count": 56,
-    "forks_count": 575
+    "forks_count": 581
   },
   {
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 13744,
+    "stargazers_count": 13836,
     "open_issues_count": 34,
-    "forks_count": 2388
+    "forks_count": 2402
   },
   {
     "full_name": "MoyGcc/vid2avatar",
@@ -67,116 +79,104 @@
   },
   {
     "full_name": "Stability-AI/generative-models",
-    "stargazers_count": 18443,
-    "open_issues_count": 188,
-    "forks_count": 2274
+    "stargazers_count": 18571,
+    "open_issues_count": 191,
+    "forks_count": 2289
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 21182,
-    "open_issues_count": 401,
-    "forks_count": 1887
+    "stargazers_count": 21211,
+    "open_issues_count": 410,
+    "forks_count": 1897
   },
   {
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 26883,
+    "stargazers_count": 26899,
     "open_issues_count": 102,
     "forks_count": 1194
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 29812,
+    "stargazers_count": 30322,
     "open_issues_count": 215,
-    "forks_count": 1725
+    "forks_count": 1745
   },
   {
     "full_name": "SawyerHood/draw-a-ui",
-    "stargazers_count": 12286,
+    "stargazers_count": 12339,
     "open_issues_count": 40,
-    "forks_count": 1400
+    "forks_count": 1405
   },
   {
     "full_name": "tldraw/make-real",
-    "stargazers_count": 4219,
+    "stargazers_count": 4249,
     "open_issues_count": 8,
-    "forks_count": 443
+    "forks_count": 445
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 25556,
-    "open_issues_count": 609,
-    "forks_count": 3150
+    "stargazers_count": 25575,
+    "open_issues_count": 619,
+    "forks_count": 3155
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 5921,
-    "open_issues_count": 67,
-    "forks_count": 291
+    "stargazers_count": 5971,
+    "open_issues_count": 70,
+    "forks_count": 294
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 22228,
-    "open_issues_count": 28,
-    "forks_count": 13066
+    "stargazers_count": 22380,
+    "open_issues_count": 31,
+    "forks_count": 13446
   },
   {
     "full_name": "balderdashy/sails",
-    "stargazers_count": 22736,
+    "stargazers_count": 22740,
     "open_issues_count": 581,
-    "forks_count": 2000
+    "forks_count": 2003
   },
   {
     "full_name": "langfuse/langfuse",
-    "stargazers_count": 1722,
-    "open_issues_count": 66,
-    "forks_count": 135
+    "stargazers_count": 1738,
+    "open_issues_count": 70,
+    "forks_count": 139
   },
   {
     "full_name": "edgestorejs/edgestore",
-    "stargazers_count": 273,
+    "stargazers_count": 275,
     "open_issues_count": 4,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "henripar/scrollbar",
-    "stargazers_count": 428,
+    "stargazers_count": 430,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "muxinc/next-video",
-    "stargazers_count": 391,
-    "open_issues_count": 17,
-    "forks_count": 7
+    "stargazers_count": 395,
+    "open_issues_count": 13,
+    "forks_count": 8
   },
   {
     "full_name": "run-llama/llama_index",
-    "stargazers_count": 26412,
-    "open_issues_count": 351,
-    "forks_count": 3347
+    "stargazers_count": 26605,
+    "open_issues_count": 357,
+    "forks_count": 3372
   },
   {
     "full_name": "ImBIOS/next-pwa",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 10,
     "forks_count": 6
   },
   {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 19422,
-    "open_issues_count": 380,
-    "forks_count": 2458
-  },
-  {
-    "full_name": "haotian-liu/LLaVA",
-    "stargazers_count": 12261,
-    "open_issues_count": 461,
-    "forks_count": 1267
-  },
-  {
-    "full_name": "tryolabs/norfair",
-    "stargazers_count": 2220,
-    "open_issues_count": 12,
-    "forks_count": 223
+    "stargazers_count": 19562,
+    "open_issues_count": 390,
+    "forks_count": 2493
   }
 ]
