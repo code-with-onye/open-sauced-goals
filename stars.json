@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "tinybirdco/web-analytics-starter-kit",
+    "stargazers_count": 306,
+    "open_issues_count": 7,
+    "forks_count": 30
+  },
+  {
     "full_name": "sst/sst",
-    "stargazers_count": 19805,
-    "open_issues_count": 793,
+    "stargazers_count": 19836,
+    "open_issues_count": 794,
     "forks_count": 1574
   },
   {
     "full_name": "NikValdez/NextJSCalendarTut",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 3980,
-    "open_issues_count": 21,
-    "forks_count": 66
+    "stargazers_count": 4057,
+    "open_issues_count": 22,
+    "forks_count": 70
   },
   {
     "full_name": "wasmerio/winterjs",
-    "stargazers_count": 2653,
-    "open_issues_count": 16,
-    "forks_count": 44
+    "stargazers_count": 2688,
+    "open_issues_count": 17,
+    "forks_count": 45
   },
   {
     "full_name": "WebDevSimplified/react-folder-structure",
     "stargazers_count": 554,
     "open_issues_count": 0,
-    "forks_count": 207
+    "forks_count": 208
   },
   {
     "full_name": "guilhermerodz/input-otp",
-    "stargazers_count": 1959,
+    "stargazers_count": 1976,
     "open_issues_count": 2,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "Lunakepio/Mario-Kart-3.js",
-    "stargazers_count": 3799,
+    "stargazers_count": 3809,
     "open_issues_count": 21,
-    "forks_count": 869
+    "forks_count": 873
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 13452,
-    "open_issues_count": 147,
-    "forks_count": 350
+    "stargazers_count": 13533,
+    "open_issues_count": 149,
+    "forks_count": 354
   },
   {
     "full_name": "FormidableLabs/react-live",
-    "stargazers_count": 4094,
+    "stargazers_count": 4098,
     "open_issues_count": 62,
-    "forks_count": 234
+    "forks_count": 233
   },
   {
     "full_name": "FormidableLabs/use-editable",
@@ -61,99 +67,99 @@
   },
   {
     "full_name": "kleampa/not-paid",
-    "stargazers_count": 13353,
+    "stargazers_count": 13365,
     "open_issues_count": 13,
-    "forks_count": 905
+    "forks_count": 907
   },
   {
     "full_name": "awslabs/llrt",
-    "stargazers_count": 7471,
-    "open_issues_count": 39,
-    "forks_count": 334
+    "stargazers_count": 7496,
+    "open_issues_count": 37,
+    "forks_count": 337
   },
   {
     "full_name": "darkroomengineering/lenis",
-    "stargazers_count": 6542,
+    "stargazers_count": 6560,
     "open_issues_count": 24,
-    "forks_count": 274
+    "forks_count": 276
   },
   {
     "full_name": "adamcohenhillel/ADeus",
-    "stargazers_count": 2624,
+    "stargazers_count": 2633,
     "open_issues_count": 18,
-    "forks_count": 268
+    "forks_count": 269
   },
   {
     "full_name": "greensock/react",
-    "stargazers_count": 189,
+    "stargazers_count": 193,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "hello-pangea/dnd",
-    "stargazers_count": 1464,
-    "open_issues_count": 73,
-    "forks_count": 67
+    "stargazers_count": 1482,
+    "open_issues_count": 74,
+    "forks_count": 68
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 48533,
-    "open_issues_count": 219,
-    "forks_count": 3636
+    "stargazers_count": 48550,
+    "open_issues_count": 220,
+    "forks_count": 3635
   },
   {
     "full_name": "sghall/react-move",
-    "stargazers_count": 6575,
+    "stargazers_count": 6574,
     "open_issues_count": 27,
     "forks_count": 212
   },
   {
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 66758,
-    "open_issues_count": 786,
-    "forks_count": 16521
+    "stargazers_count": 66772,
+    "open_issues_count": 787,
+    "forks_count": 16528
   },
   {
     "full_name": "alyssaxuu/screenity",
-    "stargazers_count": 9465,
+    "stargazers_count": 9492,
     "open_issues_count": 20,
-    "forks_count": 777
+    "forks_count": 778
   },
   {
     "full_name": "node-cron/node-cron",
-    "stargazers_count": 2846,
+    "stargazers_count": 2847,
     "open_issues_count": 159,
     "forks_count": 240
   },
   {
     "full_name": "neuronetio/gantt-schedule-timeline-calendar",
-    "stargazers_count": 2835,
+    "stargazers_count": 2845,
     "open_issues_count": 20,
-    "forks_count": 348
+    "forks_count": 347
   },
   {
     "full_name": "pingdotgg/uploadthing",
-    "stargazers_count": 3372,
-    "open_issues_count": 23,
-    "forks_count": 227
+    "stargazers_count": 3383,
+    "open_issues_count": 24,
+    "forks_count": 228
   },
   {
     "full_name": "huntabyte/bits-ui",
-    "stargazers_count": 706,
-    "open_issues_count": 35,
+    "stargazers_count": 715,
+    "open_issues_count": 34,
     "forks_count": 55
   },
   {
     "full_name": "huntabyte/shadcn-svelte",
-    "stargazers_count": 3658,
-    "open_issues_count": 22,
-    "forks_count": 233
+    "stargazers_count": 3687,
+    "open_issues_count": 24,
+    "forks_count": 235
   },
   {
     "full_name": "transloadit/uppy",
-    "stargazers_count": 28018,
-    "open_issues_count": 163,
-    "forks_count": 1921
+    "stargazers_count": 28025,
+    "open_issues_count": 168,
+    "forks_count": 1923
   },
   {
     "full_name": "bytescale/bytescale-javascript-sdk",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 27189,
-    "open_issues_count": 32,
-    "forks_count": 2740
-  },
-  {
-    "full_name": "chathub-dev/chathub",
-    "stargazers_count": 9427,
-    "open_issues_count": 273,
-    "forks_count": 942
+    "stargazers_count": 27349,
+    "open_issues_count": 33,
+    "forks_count": 2762
   }
 ]
