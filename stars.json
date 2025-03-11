@@ -1,123 +1,129 @@
 [
   {
+    "full_name": "measuredco/puck",
+    "stargazers_count": 6386,
+    "open_issues_count": 161,
+    "forks_count": 401
+  },
+  {
     "full_name": "invertase/notifee",
-    "stargazers_count": 1961,
-    "open_issues_count": 46,
-    "forks_count": 244
+    "stargazers_count": 1978,
+    "open_issues_count": 45,
+    "forks_count": 246
   },
   {
     "full_name": "invertase/react-native-firebase",
-    "stargazers_count": 11838,
+    "stargazers_count": 11841,
     "open_issues_count": 79,
-    "forks_count": 2232
+    "forks_count": 2233
   },
   {
     "full_name": "mui/base-ui",
-    "stargazers_count": 2326,
-    "open_issues_count": 170,
-    "forks_count": 95
+    "stargazers_count": 2338,
+    "open_issues_count": 158,
+    "forks_count": 97
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 69717,
-    "open_issues_count": 51,
-    "forks_count": 7777
+    "stargazers_count": 69770,
+    "open_issues_count": 60,
+    "forks_count": 7780
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 11577,
-    "open_issues_count": 92,
-    "forks_count": 1121
+    "stargazers_count": 11602,
+    "open_issues_count": 91,
+    "forks_count": 1127
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 29886,
-    "open_issues_count": 218,
-    "forks_count": 3033
+    "stargazers_count": 29940,
+    "open_issues_count": 221,
+    "forks_count": 3040
   },
   {
     "full_name": "encoredev/encore",
-    "stargazers_count": 9254,
-    "open_issues_count": 125,
-    "forks_count": 382
+    "stargazers_count": 9286,
+    "open_issues_count": 128,
+    "forks_count": 383
   },
   {
     "full_name": "The-Art-of-Hacking/h4cker",
-    "stargazers_count": 20117,
+    "stargazers_count": 20149,
     "open_issues_count": 1,
-    "forks_count": 3689
+    "forks_count": 3698
   },
   {
     "full_name": "profilecity/vidur",
-    "stargazers_count": 372,
-    "open_issues_count": 35,
+    "stargazers_count": 375,
+    "open_issues_count": 33,
     "forks_count": 96
   },
   {
     "full_name": "DiceDB/dice",
-    "stargazers_count": 7711,
-    "open_issues_count": 129,
-    "forks_count": 1170
+    "stargazers_count": 7713,
+    "open_issues_count": 125,
+    "forks_count": 1173
   },
   {
     "full_name": "sindresorhus/ora",
-    "stargazers_count": 9268,
+    "stargazers_count": 9270,
     "open_issues_count": 21,
-    "forks_count": 276
+    "forks_count": 277
   },
   {
     "full_name": "terkelg/prompts",
-    "stargazers_count": 8978,
+    "stargazers_count": 8982,
     "open_issues_count": 152,
-    "forks_count": 309
+    "forks_count": 310
   },
   {
     "full_name": "react-native-community/directory",
-    "stargazers_count": 1142,
+    "stargazers_count": 1145,
     "open_issues_count": 19,
-    "forks_count": 585
+    "forks_count": 588
   },
   {
     "full_name": "Camb-ai/MARS5-TTS",
-    "stargazers_count": 2630,
+    "stargazers_count": 2633,
     "open_issues_count": 8,
-    "forks_count": 216
+    "forks_count": 217
   },
   {
     "full_name": "raycast/ray-so",
-    "stargazers_count": 1630,
-    "open_issues_count": 16,
-    "forks_count": 185
+    "stargazers_count": 1647,
+    "open_issues_count": 12,
+    "forks_count": 190
   },
   {
     "full_name": "w3cj/bytedash",
-    "stargazers_count": 259,
+    "stargazers_count": 261,
     "open_issues_count": 3,
     "forks_count": 59
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 19502,
-    "open_issues_count": 629,
-    "forks_count": 1248
+    "stargazers_count": 19584,
+    "open_issues_count": 627,
+    "forks_count": 1250
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 14999,
-    "open_issues_count": 31,
-    "forks_count": 598
+    "stargazers_count": 15085,
+    "open_issues_count": 32,
+    "forks_count": 604
   },
   {
     "full_name": "BuilderIO/micro-agent",
-    "stargazers_count": 3853,
+    "stargazers_count": 3860,
     "open_issues_count": 38,
-    "forks_count": 325
+    "forks_count": 328
   },
   {
     "full_name": "NotionX/react-notion-x",
-    "stargazers_count": 5028,
-    "open_issues_count": 182,
-    "forks_count": 600
+    "stargazers_count": 5031,
+    "open_issues_count": 183,
+    "forks_count": 599
   },
   {
     "full_name": "Gaafar/dev-fonts",
@@ -127,38 +133,38 @@
   },
   {
     "full_name": "atlassian/pragmatic-drag-and-drop",
-    "stargazers_count": 10983,
-    "open_issues_count": 67,
-    "forks_count": 260
+    "stargazers_count": 11001,
+    "open_issues_count": 68,
+    "forks_count": 261
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 12344,
-    "open_issues_count": 216,
-    "forks_count": 633
+    "stargazers_count": 12351,
+    "open_issues_count": 218,
+    "forks_count": 634
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 49042,
-    "open_issues_count": 300,
-    "forks_count": 5385
+    "stargazers_count": 49993,
+    "open_issues_count": 297,
+    "forks_count": 5486
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 38467,
-    "open_issues_count": 735,
-    "forks_count": 6294
+    "stargazers_count": 38493,
+    "open_issues_count": 744,
+    "forks_count": 6310
   },
   {
     "full_name": "tinybirdco/web-analytics-starter-kit",
     "stargazers_count": 370,
-    "open_issues_count": 2,
+    "open_issues_count": 4,
     "forks_count": 36
   },
   {
     "full_name": "sst/sst",
-    "stargazers_count": 23072,
-    "open_issues_count": 605,
+    "stargazers_count": 23130,
+    "open_issues_count": 606,
     "forks_count": 1771
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "electric-sql/pglite",
-    "stargazers_count": 10859,
-    "open_issues_count": 95,
-    "forks_count": 239
-  },
-  {
-    "full_name": "wasmerio/winterjs",
-    "stargazers_count": 3084,
-    "open_issues_count": 17,
-    "forks_count": 55
+    "stargazers_count": 10905,
+    "open_issues_count": 101,
+    "forks_count": 240
   }
 ]
